@@ -1,1 +1,4 @@
 images/*.png
+html*
+*.bak
+images
