@@ -6,6 +6,15 @@ SysML model of the wireless connected factory workcell.  This model is design fo
 
 To use the model, MagicDraw 18.4 or later with the SysML plugin is required.  An HTML report is included for users that do not have access to the MagicDraw software.
 
+# Licensing
+Refer to the LICENSE.md file for licensing.
+
+# Citation
+Please cite our work in your publications.  When forking, copying, or reusing our work, please reference or cite our work.  A BIBTEX entry is provided below.
+```
+TODO PROVIDE CITATION WHEN DOI AVAILABLE
+```
+
 # Contacts
 Author: Richard Candell, NIST 
 
