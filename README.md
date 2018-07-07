@@ -6,6 +6,9 @@ SysML model of the wireless connected factory workcell.  This model is design fo
 
 To use the model, MagicDraw 18.4 or later with the SysML plugin is required.  An HTML report is included for users that do not have access to the MagicDraw software.
 
+# HTML Report
+The HTML report does not replace the actual modeling tool; however, the HTML report is a valuable tool in visualizing the concepts within the model.  To open the HTML report, unzip the html-report-x.y.zip file.  Locate the model.html file and open the file using a browser that supports Active content.  Internet Explorer (IE) and Firefox will usually support active content natively, but Chrome will not.  A plugin is available to load active content within Chrome, but IE and Firefox are recommended. Either browser may ask for permission to enable active content.  Permission is required to view the model.
+
 # Licensing
 Refer to the LICENSE.md file for licensing.
 
