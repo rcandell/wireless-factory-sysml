@@ -18,7 +18,7 @@ The HTML report does not replace the actual modeling tool; however, the HTML rep
 
 
 # Licensing
-Refer to the LICENSE.md file for licensing.
+This software is the product of the National Institute of Standards and Technology. Refer to the LICENSE.md file for terms of use.  
 
 # Citation
 Please cite our work in your publications.  When forking, copying, or reusing our work, please cite our work in your articles and software repositories such as GitHub.  
