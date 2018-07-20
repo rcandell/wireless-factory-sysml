@@ -1,4 +1,5 @@
 images/*.png
-html/
+html-report/
 *.bak
 images/*
+archive
